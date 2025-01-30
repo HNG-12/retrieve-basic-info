@@ -52,3 +52,6 @@ The API is deployed on Heroku. You can access it using the following URL:
 https://hng-stage-0-39627ad62da6.herokuapp.com/api/basicinfo
 ```
 * View the public API: [Live URL](https://hng-stage-0-39627ad62da6.herokuapp.com/api/basicinfo)
+
+## Backlink to Programming Language/Stack:
+- [HNG Java](https://hng.tech/hire/java-developers)
