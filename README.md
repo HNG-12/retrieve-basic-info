@@ -18,7 +18,7 @@ GET /api/basicinfo
 ```
 This endpoint returns the basic information as a JSON object.
 
-## Installation
+## Usage Instructions (Local)
 1. Clone the repository
 ```bash
 git clone https://github.com/HNG-12/retrieve-basic-info
@@ -27,11 +27,16 @@ git clone https://github.com/HNG-12/retrieve-basic-info
 ```bash
 cd retrieve-basic-info
 ```
-3. Run the project
+3. Build the project
+```bash
+mvn clean install
+```
+
+4. Run the project
 ```bash
 mvn spring-boot:run
 ```
-4. Open Postman and test the API
+5. Open Postman and test the API
 ```http
 GET http://localhost:8080/api/basicinfo
 ```
